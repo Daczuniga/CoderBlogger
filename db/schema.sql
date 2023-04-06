@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS CoderBlogger;
+CREATE DATABASE CoderBlogger;
