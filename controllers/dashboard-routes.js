@@ -100,5 +100,4 @@ router.get('/new', (req, res) => {
         loggedIn: true
     })
 })
-
 module.exports = router;

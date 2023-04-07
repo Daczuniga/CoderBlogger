@@ -7,7 +7,8 @@ const express = require('express');
 // configue handlebars (template engine)
 
 // configure session
-
+const session = require('express-session');
+const SequelizeStore = require('connect-session-sequelize')(session.Store);
 // Redirect Routes (Routing)
 
 // check that we are connection to our Database(?)
