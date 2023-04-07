@@ -1,26 +1,40 @@
+# Model-View-Controller (MVC) Challenge: Tech Blog
+  ## Description
+  This site is created for developers at any stage that wish to join a community of other developers higher or at the same level 
 
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution Guidelines](#contributionguidelines)
+  - [Tests](#tests)
+  - [User Story](#UserStory)
+  - [Acceptance Criteria](#AcceptanceCriteria)
+  - [Contact Me](#contactinfo)
+  
+## Installation
+  Using mysql and sequelize along with express
 
+## Usage
+  Need to have various libraries and packages installed 
+ 
+## License
+  MIT
 
+## ContributionGuidelines
+  Anyone who wishes to connect for various beneficial reasons
 
+## Tests
+  Run routes thru with insomnia 
 
-
-
-
-
-
-
-
-
-
-    User Story
-
+## UserStory
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
-    Acceptance Criteria
-
+## AcceptanceCriteria
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
 THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
@@ -54,3 +68,11 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+
+## ContactInfo
+Github Username : DACZuniga
+Email : Danielcruz.34776@gmail.com
+Profile URL : https://github.com/Daczuniga
+
+
