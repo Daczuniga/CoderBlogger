@@ -72,7 +72,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## ContactInfo
 Github Username : DACZuniga
+
 Email : Danielcruz.34776@gmail.com
+
 Profile URL : https://github.com/Daczuniga
+
 
 
